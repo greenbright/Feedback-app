@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Feedback-Ui-App/static/css/main.fa72ae7b.css",
-    "main.js": "/Feedback-Ui-App/static/js/main.9b38bfe7.js",
-    "index.html": "/Feedback-Ui-App/index.html",
-    "main.fa72ae7b.css.map": "/Feedback-Ui-App/static/css/main.fa72ae7b.css.map",
-    "main.9b38bfe7.js.map": "/Feedback-Ui-App/static/js/main.9b38bfe7.js.map"
+    "main.css": "/FeedbackApp/static/css/main.fa72ae7b.css",
+    "main.js": "/FeedbackApp/static/js/main.9b38bfe7.js",
+    "index.html": "/FeedbackApp/index.html",
+    "main.fa72ae7b.css.map": "/FeedbackApp/static/css/main.fa72ae7b.css.map",
+    "main.9b38bfe7.js.map": "/FeedbackApp/static/js/main.9b38bfe7.js.map"
   },
   "entrypoints": [
     "static/css/main.fa72ae7b.css",
